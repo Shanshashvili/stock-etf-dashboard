@@ -1,11 +1,11 @@
 # ----------------------------------------------------------
-# stock_chart_simple.py
+# stock_chart_basic.py
 #
 # Simple chart viewer for VOO & JEPI ETFs.
 # Lets you select a timeframe and view price charts for both funds.
 # Fetches historical price data using yfinance and displays two charts.
 # Usage:
-#   1. Run: python stock_chart_simple.py
+#   1. Run: python stock_chart_basic.py
 #   2. Choose a timeframe when prompted.
 #   3. Charts for VOO and JEPI will be shown.
 # Requirements: yfinance, matplotlib (install via pip if needed).
