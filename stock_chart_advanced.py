@@ -1,11 +1,11 @@
 # ----------------------------------------------------------
-# stock_chart_complex_with_period.py
+# stock_chart_advanced.py
 #
 # Advanced chart viewer for VOO & JEPI ETFs.
 # Allows selection of stock, timeframe, and custom periods.
 # Fetches historical price data using yfinance and displays charts.
 # Usage:
-#   1. Run: python stock_chart_complex_with_period.py
+#   1. Run: python stock_chart_advanced.py
 #   2. Follow prompts to select stock, timeframe, and period.
 #   3. Charts will be displayed for your selection.
 # Requirements: yfinance, matplotlib (install via pip if needed).
