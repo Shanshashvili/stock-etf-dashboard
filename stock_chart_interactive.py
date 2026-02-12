@@ -1,11 +1,11 @@
 # ----------------------------------------------------------
-# stock_chart_complex.py
+# stock_chart_interactive.py
 #
 # Interactive chart viewer for VOO & JEPI ETFs.
 # Allows you to select a stock (VOO, JEPI, or both) and a timeframe.
 # Fetches historical price data using yfinance and displays charts.
 # Usage:
-#   1. Run: python stock_chart_complex.py
+#   1. Run: python stock_chart_interactive.py
 #   2. Follow prompts to select stock and timeframe.
 #   3. Charts will be displayed for your selection.
 # Requirements: yfinance, matplotlib (install via pip if needed).
